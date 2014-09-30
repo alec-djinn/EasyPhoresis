@@ -1,4 +1,5 @@
-EasyPhoresis
-============
+# EasyPhoresis
 
-Electrophroresis machine
+Electrophroresis machine.
+
+![EasyPhoresis OpenSCAD picture](EasyPhoresis.png)
