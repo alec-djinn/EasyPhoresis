@@ -19,7 +19,7 @@ module body(width,height,depth,thickness){
 		}
 		translate([0,0,height]){
 			rotate([0,90,0]){
-				cylinder (h=3*height, r=height, center=true);
+				cylinder (h=2*width, r=height, center=true);
 			}
 		}
 	}
