@@ -1,9 +1,9 @@
 // DIYbio EasyPhoresis
-// by alec_djinn 2014
+// Case
 // www.diybiogroningen.org
 // Version: beta 1
 
-// dimensions
+// Variables
 width = 40;
 height = 20;
 depth = 80;
